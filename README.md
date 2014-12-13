@@ -3,10 +3,9 @@
 
 ####A simple UML tool project by JAVA in orient course
 
-[projectImg]
+![projectImg](./projectImg.PNG)
 
 
 
 
 
-[projectImg]: projectImg.PNG
